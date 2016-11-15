@@ -1,6 +1,6 @@
 .DS_STORE
 *.pyc
-monzo/*
+monzo_toolbox/*
 __pycache__/*
 credentials.py
 reciepts/*
